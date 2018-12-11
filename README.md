@@ -33,7 +33,7 @@ git subtree add --prefix api/app/lib/openapi/ui/assets https://github.com/afgarc
 ```
 
 *Update subtree*
-````
+```
 git subtree pull --prefix api/app/lib/openapi/ui/assets https://github.com/afgarcia86/bootstrap-swagger-ui ui-assets --squash
 ```
 
